@@ -6,3 +6,4 @@ Then we find out:
                 #Simple Measure of Gobbledygook
                 #Flesch-Kincaid Readability test
                 #Coleman-Liau Index 
+By doing so, we can know what age group is suitable for understanding the text that is provided.
